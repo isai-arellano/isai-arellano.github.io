@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-isai-react/static/css/main.8900501d.css",
-    "main.js": "/portfolio-isai-react/static/js/main.c6474aa8.js",
-    "static/media/isai.png": "/portfolio-isai-react/static/media/isai.12dbcdcfb382cd8f78e5.png",
-    "static/media/portfolio1.png": "/portfolio-isai-react/static/media/portfolio1.1151acd15d89444a3ba7.png",
-    "static/media/isai-memoji.png": "/portfolio-isai-react/static/media/isai-memoji.e02fe7fcbebca51fc67c.png",
-    "static/media/cv.pdf": "/portfolio-isai-react/static/media/cv.d7ab92bdcef7853dd0f2.pdf",
-    "index.html": "/portfolio-isai-react/index.html",
-    "main.8900501d.css.map": "/portfolio-isai-react/static/css/main.8900501d.css.map",
-    "main.c6474aa8.js.map": "/portfolio-isai-react/static/js/main.c6474aa8.js.map"
+    "main.css": "/static/css/main.8900501d.css",
+    "main.js": "/static/js/main.a387aafa.js",
+    "static/media/isai.png": "/static/media/isai.12dbcdcfb382cd8f78e5.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.1151acd15d89444a3ba7.png",
+    "static/media/isai-memoji.png": "/static/media/isai-memoji.e02fe7fcbebca51fc67c.png",
+    "static/media/cv.pdf": "/static/media/cv.d7ab92bdcef7853dd0f2.pdf",
+    "index.html": "/index.html",
+    "main.8900501d.css.map": "/static/css/main.8900501d.css.map",
+    "main.a387aafa.js.map": "/static/js/main.a387aafa.js.map"
   },
   "entrypoints": [
     "static/css/main.8900501d.css",
-    "static/js/main.c6474aa8.js"
+    "static/js/main.a387aafa.js"
   ]
 }
