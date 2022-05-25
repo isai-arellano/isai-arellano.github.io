@@ -19,7 +19,6 @@
 }
 
 .about__me-image{
-    border-radius: 2rem;
     overflow: hidden;
     transform:rotate(25deg);
     transition: var(--transition);
@@ -86,6 +85,12 @@
     .about__content p {
         margin: 1rem 0 1.5rem;
     }
+
+    .about__me-image{
+        width: 30vh;
+        height: 30vh;
+    }
+
  }
  
  @media screen and (max-width: 600px) {

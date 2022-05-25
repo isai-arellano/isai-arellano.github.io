@@ -9,9 +9,9 @@ const Footer = () => {
     <footer>
       <a href="#" className='footer__logo'>isai.dev</a>
       <div className='footer__socials'>
-        <a href='https://facebook.com'><FaFacebookF/></a>
-        <a href='https://instagram.com'><FiInstagram/></a>
-        <a href='https://twitter.com'><IoLogoTwitter/></a>
+        <a href='https://www.facebook.com/isai.x.x/' target="_blank"><FaFacebookF/></a>
+        <a href='https://www.instagram.com/isai.x.x/' target="_blank"><FiInstagram/></a>
+        <a href='https://twitter.com/Isai_x_x' target="_blank"><IoLogoTwitter/></a>
       </div>
       <div className="footer__copyright">
       <small>&copy; Isai.dev. All rights reserved.</small>
